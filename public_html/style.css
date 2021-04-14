@@ -1,10 +1,8 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 2021. ápr. 14., 17:37:37
-    Author     : dombai.norbert
-*/
+@charset "utf-8";
+
+.kiemel {
+    
+    border: 2px solid red;
+    cursor: grab;
+}
 
