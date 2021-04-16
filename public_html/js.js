@@ -7,7 +7,6 @@ function init() {
 }
 
 function kiemel() {
-    
     $("#bal p")[0].classList.add("kiemel");
 }
 
@@ -19,3 +18,4 @@ function $(nev) {
 function kiemelLe() {
     $("#bal p")[0].classList.remove("kiemel");
 }
+
